@@ -1,0 +1,1 @@
+# qt-python-projeto-sistema-gestao-hospitalar
